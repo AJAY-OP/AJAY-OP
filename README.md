@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @AJAY-OP
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @AJAY-OP, currently managing all operations at Sarkkart.
 
-<!---
-AJAY-OP/AJAY-OP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in web development, AI, open-source projects
+📫 How to reach me: ajay@sarkkart.com
